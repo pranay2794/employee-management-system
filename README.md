@@ -380,7 +380,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 **Your Name**
 - GitHub: [Pranaykumar](https://github.com/pranay2794)
-- LinkedIn: [Pranaykumar LinkedIn](https://www.linkedin.com/feed/)
+- LinkedIn: [Pranaykumar LinkedIn](https://www.linkedin.com/in/pranaynagireddy/)
 - Email: pranaykumarnagireddy3@gmail.com
 
 ## 🙏 Acknowledgments
